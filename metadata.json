@@ -1,0 +1,6 @@
+{
+  "name": "QuantBank Protocol",
+  "description": "An institutional-grade P2P lending protocol with real-time quantitative risk scoring and Firebase-powered ledger system.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
